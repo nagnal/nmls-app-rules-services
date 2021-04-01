@@ -26,12 +26,12 @@
   <dependencies>
   		<dependency>
 		    <groupId>com.perf</groupId>
-		    <artifactId>business-application-model</artifactId>
+		    <artifactId>nmls-app-rules-model</artifactId>
 		    <version>${project.version}</version>
 		</dependency>
     	<dependency>
 	    <groupId>com.perf</groupId>
-	    <artifactId>business-application-kjar</artifactId>
+	    <artifactId>nmls-app-rules-dm</artifactId>
 	    <version>${project.version}</version>
 	</dependency>
 <dependency>
